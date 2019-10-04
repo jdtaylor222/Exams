@@ -1,0 +1,49 @@
+main{
+  color: brown;
+}
+body{
+ color: black; font-size: 5;
+}
+
+nav{
+ font-style: normal;
+
+ 
+}
+
+div{background-color: wheat;}
+
+span{background-color:wheat; color:wheat;}
+
+
+p {
+ text-align: center;
+ color: black;
+ background-color: wheat;
+}
+
+h1 {
+  color: black; font-size: 3;background-color: tan;
+
+}
+h2 {
+  color:black;
+  background-color: wheat;
+
+}
+
+)
+
+.myClass
+{
+
+}
+
+myID
+{
+  font-size: 1m;
+  color: green;
+}
+footer{
+  background-color: tan;
+}
